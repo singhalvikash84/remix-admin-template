@@ -39,7 +39,7 @@ export default function Index() {
       </main>
       <footer className="w-full px-4 pb-8 mx-auto max-w-7xl">
         <p className="text-sm text-center">
-          &copy; {new Date().getFullYear()} Netlify. All rights reserved.
+          &copy; {new Date().getFullYear()} Vikash. All rights reserved.
         </p>
       </footer>
     </>
